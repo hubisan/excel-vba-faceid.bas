@@ -6,7 +6,7 @@ Excel VBA macro to display built-in FaceId icons and numbers in a worksheet.
 
 The [CommandBarButton.FaceId Property](https://msdn.microsoft.com/en-us/library/office/ff864154.aspx) is used to set the look (icon) of buttons used on a command bar (like the ribbon or a popup menu).
 
-The repo includes a [PDF](faceid-number-1-to-20000.pdf) made with this macro showing the FaceId icons from number 1 to 20000.
+The repo includes a PDF "faceid-number-1-to-20000.pdf" made with this macro showing the FaceId icons from number 1 to 20000.
 
 ## Installation
 
