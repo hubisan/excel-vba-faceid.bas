@@ -28,7 +28,7 @@ Call the Sub **faceids_to_wks** with the following parameters:
 
 Example call (included in the module "faceid"):
 
-```vbscript
+```vb
 'example for calling the main sub and display FaceId 1 to 1000 in the wks
 'the output of this is already generated and visible in the worksheet "faceid"
 Sub call_faceid()
@@ -37,7 +37,7 @@ End Sub
 ```
 
 Remark: The module gets automatically exported when saving the Excel file. To stop this behavior change the constant in the module "autoopen" to "False":
-```vbscript
+```vba
 Private Const is_in_development As Boolean = False
 ```
 
