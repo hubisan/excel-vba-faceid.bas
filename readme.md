@@ -37,7 +37,7 @@ End Sub
 ```
 
 Remark: The module gets automatically exported when saving the Excel file. To stop this behavior change the constant in the module "autoopen" to "False":
-```vba
+```vb
 Private Const is_in_development As Boolean = False
 ```
 
