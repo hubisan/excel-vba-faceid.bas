@@ -4,15 +4,15 @@
 
 # Explicitly declare text files you want to always be normalized and converted
 # to native line endings on checkout.
-*.gitignore eol=lf
-.gitignore eol=lf
-*.gitattributes eol=lf
-.gitattributes eol=lf
-*.md eol=lf
-*.c eol=lf
-*.h eol=lf
-*.el eol=lf
-*.elc eol=lf
+*.gitignore text eol=lf
+.gitignore text eol=lf
+*.gitattributes text eol=lf
+.gitattributes text eol=lf
+*.md text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.el text eol=lf
+*.elc text eol=lf
 
 # Declare files that will always have CRLF line endings on checkout.
 *.sln text eol=crlf
