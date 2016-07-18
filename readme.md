@@ -10,7 +10,7 @@ The repo includes a PDF "faceid-number-1-to-20000.pdf" made with this macro show
 
 ## Installation
 
-Clone or [download](../../archive/master.zip) the repository. You can also download the Excel file "faceid.xlsm" directly by right-clicking and selecting "save link as&hellip;".
+Clone or [download](../../archive/master.zip) the repository. You can also download the Excel file [faceid.xlsm](https://github.com/hubisan/excel-vba-faceid.bas/raw/master/faceid.xlsm) directly.
 
 ## Usage
 
